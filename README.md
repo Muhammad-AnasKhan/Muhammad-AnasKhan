@@ -6,6 +6,7 @@
 
 ### Coding Code 💻 | Solving Problems 💡 | Constantly Learning 🧠 
 
+# Full Stack Software Engineer
 Final Year student persuing Bachelors in IT 🎓, I have gained expertise in several programming languages including 
 Python 🐍, JavaScript 🔥, PHP, Java, C#, Dart and C++. 
 
