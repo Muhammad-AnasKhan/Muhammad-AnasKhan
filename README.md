@@ -7,9 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-the.ans.khan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:the.ans.khan@gmail.com?subject=Saw%20Your%20Github%20Profile&body=I%20wanted%20to%20talk%20with%20%20you%20about... "Connect via Email")
 [![Whatsapp Badge](https://img.shields.io/badge/-@محمد-25D366?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/923177148611 "Contact on Whatsapp")
 
-### Coding Code 💻 
-
-# Full Stack Software Engineer
+### Coding Code 💻 | Full Stack Engineer 🧙 | Python 🐍 | JS 🚀 | C# 🎯 | PHP 🌐 | MERN Stack 
 Final Year student persuing Bachelors in IT 🎓
 
 Gained expertise in several programming languages, technologies including 
