@@ -34,21 +34,32 @@ Gained expertise in various programming languages, technologies including
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,flask,php,nodejs,react,javascript,express,androidstudio,java,dart,flutter" /> <br>
-   <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,flask,php,nodejs,react,javascript,express" /> <br>
+   <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,firebase,mongodb,mysql,sqlite,postgres,docker" />
   <br>
 </div>
 
 <br/>
+
 <hr/>
 
-
+## Connect with me 🔗 :
 <div align="center">
   
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ans-khan/)
+ [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:the.ans.khan@gmail.com)
 </div>
 
-<figure><embed src="https://wakatime.com/share/@MuhammadAnsKhan/a8a60a11-b31d-46dd-bb08-6c14cd3ed645.svg"></embed></figure>
+<hr/>
+
+<div align="center">
+  
+## Coding Activity with evidence 🧑‍💻🫡:
+</div>
+<p align="center">
+<img src="https://wakatime.com/share/@MuhammadAnsKhan/a119dacc-4a78-463f-b528-2fd644d72150.svg" width="95%"/>
+  
+</p>
 
 <!---
 Muhammad-AnasKhan/Muhammad-AnasKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
