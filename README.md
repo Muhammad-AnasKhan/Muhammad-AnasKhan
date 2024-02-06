@@ -35,7 +35,7 @@ Gained expertise in various programming languages, technologies including
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,flask,php,nodejs,react,javascript,express" /> <br>
-   <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,firebase,mongodb,mysql,sqlite,postgres,docker" />
+   <img src="https://skillicons.dev/icons?i=postman,androidstudio,java,dart,flutter,firebase,mongodb,mysql,sqlite,postgres,docker" />
   <br>
 </div>
 
