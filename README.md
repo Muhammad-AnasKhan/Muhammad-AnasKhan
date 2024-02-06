@@ -30,7 +30,7 @@ Gained expertise in various programming languages, technologies including
 - Android 📱
 - Flutter 🌐😉📱🖥️🐧🍎
 -->
-  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <h2 align="center">⚒️ Tools I've Explored ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github,figma,tailwind,git" />
