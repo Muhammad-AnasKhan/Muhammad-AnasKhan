@@ -48,6 +48,7 @@ Gained expertise in various programming languages, technologies including
  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ans-khan/)
 </div>
 
+<figure><embed src="https://wakatime.com/share/@MuhammadAnsKhan/a8a60a11-b31d-46dd-bb08-6c14cd3ed645.svg"></embed></figure>
 
 <!---
 Muhammad-AnasKhan/Muhammad-AnasKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
