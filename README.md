@@ -9,9 +9,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-@محمد-25D366?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/923177148611 "Contact on Whatsapp")
 
 
-## Software Engineer 💻 | Full Stack 🧙 | Python 🐍 | JS 🚀 | C# 🎯 | PHP 🌐 | MERN Stack | Mobile App 📱
+## Software Engineer 💻 | Full Stack 🧙 | .NET Specialist 🏆 | Python 🐍 | C# 🎯 | Node JS 🚀 | Mobile App 📱
 
-Final Year student persuing Bachelors in IT 🎓
 
 Gained expertise in various programming languages, technologies including 
 
