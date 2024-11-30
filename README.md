@@ -12,7 +12,6 @@
 ## Software Engineer 💻 | Full Stack 🧙 | .NET Specialist 🏆 | Python 🐍 | C# 🎯 | Node JS 🚀 | Mobile App 📱
 
 
-Gained expertise in various programming languages, technologies including 
 
 <br/>
 
