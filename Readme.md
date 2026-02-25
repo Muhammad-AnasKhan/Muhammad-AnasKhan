@@ -6,7 +6,41 @@ I build scalable web products with AI at the core.
 From LLM integrations and AI agents to full-stack SaaS platforms — I focus on clean architecture, fast execution, and real business impact.
 
 Currently building and shipping AI-powered systems used in real production environments.
+---
 
+## 🛠 Tech Stack
+
+### 🧠 AI & Intelligent Systems
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</div>
+
+<p align="center">
+OpenAI • LangChain • LlamaIndex • RAG • AI Agents • Vector Databases • Prompt Engineering
+</p>
+
+---
+
+### 🏗 Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,flask" />
+</div>
+
+---
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts" />
+</div>
+
+---
+
+### 🗄 Data & Infrastructure
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,firebase" />
+</div>
+
+---
 ---
 
 ## 🚀 What I Do
