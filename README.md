@@ -17,19 +17,6 @@
 
 <br/>
 
-<!--
--  Python 🐍
--  JavaScript 🔥
--  PHP 🐘
-- Java ☕
-- C# #️⃣
-- .NET ⚙️
-- Dart 🎯
-- C++ ➕➕
-- NodeJS 🚀
-- Android 📱
-- Flutter 🌐😉📱🖥️🐧🍎
--->
   <h2 align="center">⚒️ Some of Tools I've crafted products With ⚒️</h2>
 <br/>
 <div align="center">
